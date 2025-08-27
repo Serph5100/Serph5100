@@ -2,7 +2,10 @@
 ### I'm Siraphop Cheepudomwit
 ### You can call me Soup!
 
-My Official Contact : siraphop.cheepud@outlook.com
+## Contacts
+Email : siraphop.cheepud@outlook.com
+
+I'm currently open for work!
 
 ## My GitHub stats
 [![Soup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serph5100)](https://github.com/anuraghazra/github-readme-stats)
