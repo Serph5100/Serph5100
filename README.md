@@ -1,4 +1,12 @@
-## Hi there 👋
+## Good Morning / Sawasdee Krub
+## I'm Siraphop Cheepudomwit
+## You can call me Soup!
+
+My Official Contact : siraphop.cheepud@outlook.com
+
+[![Soup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serph5100)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Serph5100/Serph5100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
